@@ -1,4 +1,6 @@
 # Claude-Cline Bridge
+NOT Functional yet!
+please feel free to contribute to this project.
 
 A simple communication bridge between Claude and Cline.
 
